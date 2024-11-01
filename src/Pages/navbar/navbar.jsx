@@ -181,7 +181,7 @@ function NavComponent() {
                 activeSection === "home" ? "active" : ""
               }`}
             >
-              <a href="#home">HOME</a>
+              <a href="/">HOME</a>
             </li>
             <li
               className={`cur nav_link ${
